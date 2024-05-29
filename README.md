@@ -1,6 +1,8 @@
 # Profile Screen
 
-This is an Android app project that displays a single profile screen, made for layout study purposes.
+I made this project in native Android using Kotlin as the language 🙂 .
+
+The project consists of a user profile screen with the aim of addressing modern concepts of creating layouts using the Compose library, and can be well used, for example, in a personal task management application.
 
 ## Print da Tela de Perfil
 
