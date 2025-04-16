@@ -1,42 +1,46 @@
-# Profile Screen
+# 📱 Profile Screen
 
-I made this project in native Android using Kotlin as the language 🙂 .
+Este é um projeto de tela de perfil desenvolvido com **Android Nativo** utilizando a linguagem **Kotlin** 🙂.
 
-The project consists of a user profile screen with the aim of addressing modern concepts of creating layouts using the Compose library, and can be well used, for example, in a personal task management application.
+O objetivo é demonstrar a criação de **interfaces modernas** com a biblioteca **Jetpack Compose**, simulando uma tela de perfil que pode ser usada, por exemplo, em um app de gerenciamento pessoal de tarefas.
 
-## Print da Tela de Perfil
+---
 
-<div align="center">
-  
-<img src="./AppProfileScreen.jpg" alt="Tela de Perfil" style="width: 400px; height: auto;">
-
-</div>
+## 🖼️ Print da Tela
 
 <div align="center">
-  
-### Image Description
-
-The image above shows the application profile screen. Here users can easily access their information.
-
+  <img src="./AppProfileScreen.jpg" alt="Tela de Perfil" width="300px">
 </div>
 
-<hr>
+<p align="center">
+  <i>A imagem acima mostra a interface da tela de perfil, onde o usuário pode visualizar facilmente suas informações.</i>
+</p>
 
-## How to Run the Application
+---
 
-To run this application, follow the steps below:
+## ▶️ Como Executar o Projeto
 
-1. Clone this repository or download the source code.
-2. Open the project in Android Studio.
-3. Connect an Android device to your machine or set up an emulator.
-4. Click the "Run" button in Android Studio to launch the application.
+Siga os passos abaixo para rodar o aplicativo:
 
-## Technologies Used
+1. Clone este repositório ou baixe o código-fonte.
+2. Abra o projeto no Android Studio.
+3. Conecte um dispositivo Android ou inicie um emulador.
+4. Clique no botão "Run" (ou `Shift + F10`) para executar o app.
 
-- **Android Studio**: IDE used for application development.
-- **Kotlin**: Programming language used to write the application code.
-- **Jetpack Compose**: Library for Android applications used to assemble modern layouts.
+---
 
-## License
+## 🛠️ Tecnologias Utilizadas
 
-This project is licensed under the MIT License. See the `LICENSE` file in the project root for more details.
+- **Android Studio** — IDE usada para o desenvolvimento
+- **Kotlin** — Linguagem de programação
+- **Jetpack Compose** — Toolkit moderno para construção de interfaces nativas no Android
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+
+---
+
+Feito com 💙 por [BrunOliveiraCA](https://github.com/BrunOliveiraCA)
