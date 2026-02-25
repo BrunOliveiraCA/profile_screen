@@ -1,46 +1,56 @@
-# 📱 Profile Screen
+📱 Profile Screen
 
-Este é um projeto de tela de perfil desenvolvido com **Android Nativo** utilizando a linguagem **Kotlin** 🙂.
+This is a profile screen project developed with Native Android using the Kotlin language 🙂.
 
-O objetivo é demonstrar a criação de **interfaces modernas** com a biblioteca **Jetpack Compose**, simulando uma tela de perfil que pode ser usada, por exemplo, em um app de gerenciamento pessoal de tarefas.
+The goal is to demonstrate the creation of modern interfaces with the Jetpack Compose library, simulating a profile screen that could be used, for example, in a personal task management app.
 
----
-
-## 🖼️ Print da Tela
+<br>
 
 <div align="center">
-  <img src="./AppProfileScreen.jpg" alt="Tela de Perfil" width="300px">
+<p>🖼️ Screen Screenshot</p>
+</div>
+
+
+<br>
+
+<div align="center">
+<img src="./AppProfileScreen.jpg" alt="Profile Screen" width="300px">
 </div>
 
 <p align="center">
-  <i>A imagem acima mostra a interface da tela de perfil, onde o usuário pode visualizar facilmente suas informações.</i>
+<i>The image above shows the profile screen interface, where the user can easily view their information.</i>
 </p>
 
----
+<br>
 
-## ▶️ Como Executar o Projeto
+▶️ How to Run the Project
 
-Siga os passos abaixo para rodar o aplicativo:
+<br>
 
-1. Clone este repositório ou baixe o código-fonte.
-2. Abra o projeto no Android Studio.
-3. Conecte um dispositivo Android ou inicie um emulador.
-4. Clique no botão "Run" (ou `Shift + F10`) para executar o app.
+Follow the steps below to run the application:
 
----
+    Clone this repository or download the source code.
 
-## 🛠️ Tecnologias Utilizadas
+    Open the project in Android Studio.
 
-- **Android Studio** — IDE usada para o desenvolvimento
-- **Kotlin** — Linguagem de programação
-- **Jetpack Compose** — Toolkit moderno para construção de interfaces nativas no Android
+    Connect an Android device or start an emulator.
 
----
+    Click the "Run" button (or press Shift + F10) to launch the app.
 
-## 📄 Licença
+<br>
 
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+🛠️ Technologies Used
 
----
+    Android Studio — IDE used for development
 
-Feito com 💙 por [BrunOliveiraCA](https://github.com/BrunOliveiraCA)
+    Kotlin — Programming language
+
+    Jetpack Compose — Modern toolkit for building native Android interfaces
+
+<br>
+
+📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+Made with 💙 by BrunOliveiraCA
